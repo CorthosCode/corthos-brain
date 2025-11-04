@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CorthosContainer/🔗 Полезные ссылки.md",
+                "file": "Security/🔐 11. Keycloak.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🔗 Полезные ссылки"
+              "title": "🔐 11. Keycloak"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Framework/База по теории.md",
+                "file": "Security/🔐 11. Keycloak.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура База по теории"
+              "title": "Структура 🔐 11. Keycloak"
             }
           },
           {
@@ -195,10 +195,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30ac7186da16850a",
+  "active": "38e354ce81d4a9c9",
   "lastOpenFiles": [
+    "Security/🔐 10. SAML 2.0 (Security Assertion Markup Language).md",
+    "Security/🔐 9. OIDC (OpenID Connect).md",
+    "Security/🔐 8. OAuth 2.0.md",
+    "Security/🔐 7. SSO (Single Sign-On).md",
+    "Security/🔐 6. Spring Security + JWT — внутренние механизмы.md",
+    "Security/🔐 5. JWT (JSON Web Token).md",
+    "Security/🔐 4. Session-based Authentication.md",
+    "Security/🔐 3. HTTP Basic Authentication.md",
+    "Security/🔐 2. Base64.md",
+    "Security/🔐 1. Идентификация, авторизация, аутентификация.md",
     "Spring Framework/База по теории.md",
+    "Security/🔐 11. Keycloak.md",
     "CorthosContainer/🔗 Полезные ссылки.md",
+    "Security",
+    "Новая папка",
     "CorthosContainer/assets/1.png",
     "CorthosContainer/assets",
     "CorthosContainer/Добро пожаловать.md",
