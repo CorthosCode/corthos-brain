@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Help/Изучить.md",
+                "file": "GraphQL/📑 GraphQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Изучить"
+              "title": "📑 GraphQL"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Help/Изучить.md",
+                "file": "GraphQL/📑 GraphQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Изучить"
+              "title": "Структура 📑 GraphQL"
             }
           },
           {
@@ -197,26 +197,29 @@
   },
   "active": "c21194dd8bd90ede",
   "lastOpenFiles": [
+    "assets/-o7s0jcmuZXr3VeJV9BCagxq9uySAosXEuJ8-4gPO5o=.png",
+    "assets/_I8qHLFzA5hWk_dhz7DxsrDKNrWUywIzdPtyH2Q-IRo=.png",
+    "Help/💻 Terminal.md",
+    "assets/ZoLM5jbEi1MIWpZlmbZv9uoTwMSEYBKdUHnZRdV5ODQ=.png",
+    "assets/ZpHX7DcQOlGlgBq-FrG-hPcMc4BDO1ZD48OPW2bRR0Y=.png",
+    "assets/xXmYkdy-jWeOTYJhZHQmi2BFi53BAT9lGvPPVND_qBM=.png",
+    "assets/Wp_EolGigE-k-RlnsXMgLdL_fuf00dUaNRGBfk8Wx5c=.jpeg",
+    "assets/XaVlv32hu3QCD4xpq_ZfSdHgk-4VJdQWkBjtCVq8eY0=.png",
+    "assets/WtvFZWOV7kTWRZStlBacTpT1lJyjxee-36Gg449b_e8=.png",
+    "assets/WoKUsM_MdN47dv3KtLpYO6sRSTZJEx8qMkXtu6IJJ2A=.png",
+    "assets/vW30fmWZ6TvxAwlzW8ZT6MLfY0_H5q-bvEP7jdNy1D4=.png",
+    "assets/Vrhv9WdPddcVDZap7iWDtP_kEtvZh0boOeX9CxBcMpg=.png",
+    "assets",
+    "Help/🔗 Полезные ссылки.md",
+    "Help/Изучить.md",
     "Help/Книги.md",
     "Help/Собеседование.md",
     "Help/Узнать.md",
     "Help/Gaming PC.md",
     "Help/Цитатки.md",
-    "Help/Изучить.md",
     "Help/🤖 AI.md",
     "Help/📑 Essence - карманный гид.md",
-    "Help/💻 Terminal.md",
     "Testing/🪲 @MockBean vs Mockito.mock().md",
-    "CorthosContainer/assets/G_Qxd2RbWXcvppFwXOZsoe186rtf0xLpmDceXiOh6FY=.png",
-    "CorthosContainer/assets/XaVlv32hu3QCD4xpq_ZfSdHgk-4VJdQWkBjtCVq8eY0=.png",
-    "CorthosContainer/assets/Wp_EolGigE-k-RlnsXMgLdL_fuf00dUaNRGBfk8Wx5c=.jpeg",
-    "CorthosContainer/assets/RNKzjQI9GGbfSud2TIeEB2CCDJ1Mv-a15g0ZFt6egOI=.png",
-    "CorthosContainer/assets/-o7s0jcmuZXr3VeJV9BCagxq9uySAosXEuJ8-4gPO5o=.png",
-    "CorthosContainer/assets/KZJwTzirfV6_uwbkgMFLnSaNYarISmWdvALETIX-wZI=.png",
-    "CorthosContainer/assets/gR-EGEz3YpAFnXK_5Mn17L9tUsxYxZ4iF5tDIgRHcvQ=.png",
-    "CorthosContainer/assets/GPus8OPEhDzBl8zkfYSpl3bBWFx9Y8K3vDW4DXExcK0=.png",
-    "CorthosContainer/assets/B_N2rhk7UIpzM8TcSZvlfqC9kCcArs0lZtvqbRp7Xi0=.png",
-    "CorthosContainer/assets/4RmFRskuKU2Zcax_HDwlKbPfGa9kHPbgCutH41H9VoI=.png",
     "Help/🔨 VPS.md",
     "Help/🔨 Структурные элементы документа (H1, H2 - H6).md",
     "Help/[Linux] Создание пользователя.md",
@@ -236,12 +239,9 @@
     "Testing/🪲 Глава 11. Testcontainers — интеграционные тесты с реальными сервисами.md",
     "Testing/🪲 Глава 10. Тестирование в Spring Boot.md",
     "Testing/🪲 Глава 9. Mockito — Spies, ArgumentCaptor и продвинутые техники.md",
-    "Testing/🪲 Глава 8. Mockito и моки.md",
-    "Testing/🪲 Глава 7. JUnit — Nested tests и Lifecycle.md",
     "Testing",
     "Hibernate/Other",
     "Hibernate/Новая папка",
-    "Hibernate/Optional",
-    "Hibernate/General"
+    "Hibernate/Optional"
   ]
 }
