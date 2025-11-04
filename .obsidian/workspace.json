@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2519450ce9c973c9",
+        "id": "e9c935b6e2a7d416",
         "type": "tabs",
         "children": [
           {
-            "id": "30ac7186da16850a",
+            "id": "faea82a87fc72cb9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security/🔐 11. Keycloak.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "🔐 11. Keycloak"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/🔐 11. Keycloak.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 🔐 11. Keycloak"
+              "title": "Структура"
             }
           },
           {
@@ -195,8 +190,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38e354ce81d4a9c9",
+  "active": "faea82a87fc72cb9",
   "lastOpenFiles": [
+    "Java/General/☕ Type erasure (стирание типов) — ключевая особенность дженериков (обобщений) в Java..md",
+    "Java/General/☕ Sealed classes в Java.md",
+    "Java/General/☕ Исключения в Java.md",
+    "Java/General/☕ Аннотации в Java.md",
+    "Java/General/Types/☕ Часть 3. Расширенные возможности типовой системы.md",
+    "Java/General/Types/☕ Часть 2. Преобразования типов, система типов JVM и дженерики.md",
+    "Java/General/Types/☕ Часть 1. Базовые понятия и фундамент.md",
+    "Java/General/Types",
+    "Java/General",
+    "Java",
     "Security/🔐 10. SAML 2.0 (Security Assertion Markup Language).md",
     "Security/🔐 9. OIDC (OpenID Connect).md",
     "Security/🔐 8. OAuth 2.0.md",
