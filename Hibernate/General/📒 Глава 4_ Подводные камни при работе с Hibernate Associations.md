@@ -1,0 +1,212 @@
+# 📒 Глава 4: Подводные камни при работе с Hibernate Associations
+
+## Две стороны без `mappedBy`
+
+**Ситуация**
+
+```sql
+@Entity
+class Person {
+    @OneToOne
+    @JoinColumn(name = "passport_id")
+    private Passport passport;
+}
+
+@Entity
+class Passport {
+    @OneToOne
+    @JoinColumn(name = "person_id")
+    private Person person;
+}
+```
+
+**Что произойдёт?**
+
+Hibernate создаст **две FK-колонки** (`person.passport_id` и `passport.person_id`) → данные будут несогласованны.
+
+**Правильно:**
+
+* выбираем владельца (`@JoinColumn`),
+* у второй стороны пишем `mappedBy`.
+
+
+
+
+
+***
+
+## N+1 проблема
+
+**Что это?**
+
+* Допустим, у нас есть список департаментов.
+* Мы хотим вывести их сотрудников.
+
+```java
+List<Department> deps = session.createQuery("from Department", Department.class).list();
+for (Department d : deps) {
+    System.out.println(d.getEmployees().size()); // тут Hibernate делает отдельный SELECT для каждого департамента
+}
+```
+
+👉 Это и есть N+1:
+
+* 1 запрос на департаменты
+* N запросов на сотрудников
+
+**Как решать?**
+
+1. **JOIN FETCH**
+
+```java
+List<Department> deps = session.createQuery(
+    "select d from Department d join fetch d.employees", Department.class
+).list();
+```
+
+1. **@EntityGraph (JPA 2.1+)**
+
+```java
+@EntityGraph(attributePaths = "employees")
+List<Department> findAll();
+```
+
+[📒 @EntityGraph](file:///workspace/6873b63c-7b27-4903-873e-656e6b87e61d/K1iHWx71MMdXd0L4itfWn)
+
+
+
+
+
+***
+
+## LazyInitializationException
+
+**Ситуация:**
+
+```java
+Department d = session.find(Department.class, 1L);
+session.close();
+System.out.println(d.getEmployees().size()); // LazyInitializationException
+```
+
+**Почему?**
+
+* Коллекция `employees` — LAZY.
+* Сессия закрыта → Hibernate не может сделать SELECT.
+
+**Решения:**
+
+1. Делать `fetch join` при запросе.
+2. Использовать `OpenSessionInView` (но осторожно — может дать лишние запросы).
+3. Инициализировать вручную:
+
+```java
+Hibernate.initialize(d.getEmployees());
+```
+
+[📒 OpenSessionInView (OSIV)](file:///workspace/6873b63c-7b27-4903-873e-656e6b87e61d/Enkr2fEwI8oc3nzpGenXk)
+
+
+
+
+
+***
+
+## equals() и hashCode()
+
+Hibernate **очень чувствителен** к тому, как ты определяешь `equals/hashCode` в сущностях.
+
+**Ошибка №1:**
+
+```java
+@Override
+public boolean equals(Object o) {
+    return Objects.equals(this.id, ((User) o).id);
+}
+```
+
+👉 Проблема: у transient-объектов `id = null`, значит два разных объекта будут считаться равными.
+
+**Правильнее:**
+
+* Использовать **бизнес-ключ** (например, `email`) для equals/hashCode.
+* Либо в простых случаях использовать только `id`, но учитывать `null`.
+
+
+
+
+
+***
+
+## Коллекции в связях
+
+**Проблема:** 
+
+Hibernate плохо дружит с `Set`/`List` при `equals/hashCode`.
+
+Пример:
+
+```java
+department.getEmployees().remove(emp);
+```
+
+Если `emp` не совпадает по `equals/hashCode`, Hibernate не удалит строку в join-таблице.
+
+👉 Совет:
+
+* Всегда определяй `equals/hashCode` корректно.
+* Чаще используй `List`, а не `Set`, чтобы избежать дубликатов при ленивой загрузке.
+
+
+
+
+
+***
+
+## orphanRemoval vs Cascade.REMOVE
+
+* `cascade = CascadeType.REMOVE` → при удалении родителя удаляются дети.
+* `orphanRemoval = true` → если убрать ребёнка из коллекции, он удалится и в БД.
+
+Пример:
+
+```java
+@OneToMany(mappedBy = "department", cascade = CascadeType.ALL, orphanRemoval = true)
+private List<Employee> employees = new ArrayList<>();
+
+// если вызвать:
+dep.getEmployees().remove(emp);
+// Hibernate удалит emp из таблицы employee
+```
+
+
+
+
+
+***
+
+## Дубликаты при ManyToMany
+
+Если у тебя `List<Course> courses` и ты дважды добавишь один и тот же объект → Hibernate попытается вставить дубликат в join-таблицу.
+
+👉 Поэтому лучше использовать `Set`, но тогда очень важно правильно переопределить `equals/hashCode`.
+
+
+
+
+
+***
+
+## Итог
+
+Основные подводные камни:
+
+1. **mappedBy** → нужен, чтобы Hibernate не создал лишние FK.
+2. **N+1** → лечится `join fetch` или `EntityGraph`.
+3. **LazyInitializationException** → лечится `fetch join`, `initialize()` или расширением сессии.
+4. **equals/hashCode** → крайне важны для коллекций и работы Hibernate.
+5. **orphanRemoval** ≠ `Cascade.REMOVE`.
+6. **ManyToMany** → аккуратно с дубликатами.
+
+
+
