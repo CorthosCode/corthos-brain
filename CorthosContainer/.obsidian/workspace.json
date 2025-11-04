@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "3b2b9b21161fda91",
+    "type": "split",
+    "children": [
+      {
+        "id": "41a3d72c8d632228",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd8635ab64eec1ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Добро пожаловать"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2e15feb226cfaf33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af5e9fdcb6a10d55",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75a7156b9a40bd47",
+    "type": "split",
+    "children": [
+      {
+        "id": "d43258ae02f2c221",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ab60bb907cec808",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "cd9474b3af02f364",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "60dc946de65ed007",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df41cca0453c2368",
+    "type": "split",
+    "children": [
+      {
+        "id": "69a9d184dc318b60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a19b878c8cfe4df2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Добро пожаловать"
+            }
+          },
+          {
+            "id": "3c51a3c64efc3efe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Добро пожаловать"
+            }
+          },
+          {
+            "id": "79d530200eed30d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "2dc5d15be31ae793",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Добро пожаловать"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "fd8635ab64eec1ca",
+  "lastOpenFiles": [
+    "Добро пожаловать.md"
+  ]
+}
