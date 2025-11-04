@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2377d997ad829657",
+        "id": "0e2bebb933eccb63",
         "type": "tabs",
         "children": [
           {
-            "id": "6cec30d0f40d6cec",
+            "id": "9605c81d65843596",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Help/Gaming PC.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Gaming PC"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Help/Gaming PC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Gaming PC"
+              "title": "Структура"
             }
           },
           {
@@ -180,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,6 +192,9 @@
   },
   "active": "38e354ce81d4a9c9",
   "lastOpenFiles": [
+    "Spring Framework/База по теории.md",
+    "GraphQL/📑 GraphQL.md",
+    "Help/Gaming PC.md",
     "Help/Цитатки.md",
     "Help/Узнать.md",
     "Help/Собеседование.md",
@@ -209,7 +207,6 @@
     "Help/📑 Essence - карманный гид.md",
     "Help/💻 Terminal.md",
     "Help/[Linux] Создание пользователя.md",
-    "GraphQL/📑 GraphQL.md",
     "assets/-o7s0jcmuZXr3VeJV9BCagxq9uySAosXEuJ8-4gPO5o=.png",
     "assets/_I8qHLFzA5hWk_dhz7DxsrDKNrWUywIzdPtyH2Q-IRo=.png",
     "assets/ZoLM5jbEi1MIWpZlmbZv9uoTwMSEYBKdUHnZRdV5ODQ=.png",
@@ -221,7 +218,6 @@
     "assets/WoKUsM_MdN47dv3KtLpYO6sRSTZJEx8qMkXtu6IJJ2A=.png",
     "assets/vW30fmWZ6TvxAwlzW8ZT6MLfY0_H5q-bvEP7jdNy1D4=.png",
     "assets",
-    "Help/Gaming PC.md",
     "Testing/🪲 @MockBean vs Mockito.mock().md",
     "Help",
     "Новая папка",
