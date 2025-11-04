@@ -11,10 +11,14 @@
             "id": "c21194dd8bd90ede",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Testing/🪲 @MockBean vs Mockito.mock().md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "🪲 @MockBean vs Mockito.mock()"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Testing/🪲 @MockBean vs Mockito.mock().md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура 🪲 @MockBean vs Mockito.mock()"
             }
           },
           {
@@ -192,6 +197,22 @@
   },
   "active": "c21194dd8bd90ede",
   "lastOpenFiles": [
+    "Testing/🪲 Глава 13. End-to-End (E2E) тест с H2 (без Testcontainers).md",
+    "Testing/🪲 Глава 12. End-to-End (E2E) тест Spring Boot приложения с Testcontainers.md",
+    "Testing/🪲 Глава 11. Testcontainers — интеграционные тесты с реальными сервисами.md",
+    "Testing/🪲 Глава 10. Тестирование в Spring Boot.md",
+    "Testing/🪲 Глава 9. Mockito — Spies, ArgumentCaptor и продвинутые техники.md",
+    "Testing/🪲 Глава 8. Mockito и моки.md",
+    "Testing/🪲 Глава 7. JUnit — Nested tests и Lifecycle.md",
+    "Testing/🪲 Глава 6. Тестирование исключений и edge cases.md",
+    "Testing/🪲 Глава 5. Параметризованные тесты в JUnit 5.md",
+    "Testing/🪲 Глава 4. Структура и стили написания unit-тестов.md",
+    "Testing/🪲 Глава 3. Assertions (утверждения в тестах).md",
+    "Testing/🪲 Глава 2. JUnit — основа для unit-тестирования в Java.md",
+    "Testing/🪲 Глава 1. Введение в тестирование и Unit-тесты.md",
+    "Testing/🪲 @MockBean vs Mockito.mock().md",
+    "Testing",
+    "Новая папка",
     "Hibernate/Other/📒 Решение непонятных моментов.md",
     "Hibernate/General/📒 Глава 1. Введение и основы ORM.md",
     "Hibernate/Other",
@@ -209,26 +230,11 @@
     "Hibernate/General/📒 Глава 2. Жизненный цикл объектов.md",
     "Hibernate/General",
     "Hibernate",
-    "Новая папка",
-    "Data Base/Architecture/📘 ACID.md",
-    "Data Base/Architecture/📘 Уровни изоляции транзакций (Isolation Levels).md",
-    "Data Base/Architecture/📘 Версионирование данных.md",
-    "Data Base/Optional/📘 Порядок выполнения SELECT-запроса в SQL.md",
     "CorthosContainer/assets/NMEc2Belr0u0jhOs0ZOEzgleNThcFqhkKOpLNZ3QXaU=.png",
     "CorthosContainer/assets/9KOXzp3FT0cVGADvnhmxyqIBJdaDUSI-V53bqXyx5oQ=.png",
     "CorthosContainer/assets/0AIDFT8JjLPqN7yABKOKDHSHLXOxM1vuPUoSGHGbZyo=.png",
-    "Data Base/Architecture/📘 Slowly Changing Dimensions (SCD).md",
     "Data Base/Architecture",
     "Data Base/Новая папка",
-    "Data Base/Optional/📘 Подзапросы в SQL.md",
-    "Data Base/Optional/Оптимистичная блокировка.md",
-    "Data Base/Optional/📘 HAVING в SQL.md",
-    "Data Base/Optional/📘 DISTINCT в SQL.md",
-    "Data Base/Optional/📘 Теорема Хита (Heath’s theorem).md",
-    "Data Base/Optional/📘 Жизненный цикл транзакции.md",
-    "Data Base/Optional/📘 Избыточность данных (Data Redundancy).md",
-    "Data Base/Optional/📘 Нормализация баз данных.md",
-    "Data Base/Optional/📘 Ссылочная целостность (Referential Integrity).md",
     "CorthosContainer/assets/tN3rGRRnx53yiG3dZ8aqzJ8GQ0I6zUpcZlwXV1jF_Ec=.png",
     "Data Base/Optional",
     "CorthosContainer/assets/Ky4t8zJIYy3rSxsdaECaa0bk-zKoA0KRhrYAvletPGg=.png",
@@ -236,7 +242,6 @@
     "CorthosContainer/assets/_I8qHLFzA5hWk_dhz7DxsrDKNrWUywIzdPtyH2Q-IRo=.png",
     "CorthosContainer/assets/vmrKc4rhL1hQXHrHmbAPc1olafSH7_gj3Erk2O-nvPo=.png",
     "CorthosContainer/assets/WoKUsM_MdN47dv3KtLpYO6sRSTZJEx8qMkXtu6IJJ2A=.png",
-    "Data Base/General",
     "CorthosContainer/assets/LLOgm3XFmXAg8YxlcL__6yP64iDF9A_WnAeh-_UVK1g=.png"
   ]
 }
