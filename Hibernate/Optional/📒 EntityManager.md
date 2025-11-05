@@ -1,11 +1,7 @@
-# 📒 EntityManager
 
 * Интерфейс из **JPA (****`jakarta.persistence`****)**, который описывает стандартный контракт работы с ORM.
 * Hibernate реализует `EntityManager` внутри себя через обёртку над `Session`.
 * То есть, если ты используешь JPA, то пишешь код под `EntityManager`, а Hibernate внутри всё равно работает через `Session`.
-
-
-
 
 
 ***
@@ -43,8 +39,6 @@ em.getTransaction().commit();
 em.close();
 ```
 
-
-
 👉 Отличие:
 
 * `SessionFactory` → `EntityManagerFactory`
@@ -53,14 +47,9 @@ em.close();
 * Запросы (`createQuery`) выглядят почти одинаково (только методы другие: `getResultList`, `getSingleResult`)
 
 
-
-
-
 ***
 
 ## Зачем нужен `EntityManager`, если есть `Session`
-
-
 
 **Стандарт**
 
@@ -69,13 +58,11 @@ em.close();
 Код под `Session` — только на Hibernate.
 
 
-
 **Совместимость со Spring**
 
 Spring Data JPA работает именно через `EntityManager`.
 
 Поэтому если ты хочешь потом мигрировать к Spring Data — лучше привыкать к `EntityManager`.
-
 
 
 **Упрощённый API**
@@ -86,9 +73,6 @@ Spring Data JPA работает именно через `EntityManager`.
 * `persist()` вместо `session.persist()`
 * `merge()` вместо `session.merge()`
 * `remove()` вместо `session.delete()`
-
-
-
 
 
 ***
@@ -118,6 +102,4 @@ List<Employee> list = em.createQuery(
     .setParameter("name", "P%")
     .getResultList();
 ```
-
-
 
