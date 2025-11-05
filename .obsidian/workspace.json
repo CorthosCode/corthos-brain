@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0e2bebb933eccb63",
+        "id": "69137be553a21e65",
         "type": "tabs",
         "children": [
           {
-            "id": "58a721ec50cf03a7",
+            "id": "fcc83cfc4be70a08",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Hibernate/General/📒 Глава 1. Введение и основы ORM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📒 Глава 1. Введение и основы ORM"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Hibernate/General/📒 Глава 1. Введение и основы ORM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура 📒 Глава 1. Введение и основы ORM"
             }
           },
           {
@@ -192,6 +197,9 @@
   },
   "active": "38e354ce81d4a9c9",
   "lastOpenFiles": [
+    "Help/💻 Terminal.md",
+    "Help/[Linux] Создание пользователя.md",
+    "GraphQL/📑 GraphQL.md",
     "Architecture/Матрица Эйзенхауэра.md",
     "Architecture/🔨 CAP-теорема и ключевые свойства распределённых систем.md",
     "Architecture/🔨 Поведение vs Архитектура.md",
@@ -215,9 +223,6 @@
     "Data Base/Optional/📘 Жизненный цикл транзакции.md",
     "Data Base/Optional/📘 Аномалии данных (Data Anomalies).md",
     "Data Base/Optional/📘 Агрегатные функции в SQL (PostgreSQL).md",
-    "Data Base/General/📘 16. TCL (Transaction Control Language).md",
-    "Data Base/General/📘 15. DQL (Data Query Language).md",
-    "Data Base/General/📘 14. DML (Data Manipulation Language).md",
     "assets/-o7s0jcmuZXr3VeJV9BCagxq9uySAosXEuJ8-4gPO5o=.png",
     "assets/_I8qHLFzA5hWk_dhz7DxsrDKNrWUywIzdPtyH2Q-IRo=.png",
     "assets/ZoLM5jbEi1MIWpZlmbZv9uoTwMSEYBKdUHnZRdV5ODQ=.png",
