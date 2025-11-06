@@ -50,7 +50,7 @@ List<Integer> list2 = new ArrayList<>();
 System.out.println(list1.getClass() == list2.getClass()); // true
 ```
 
-✅ Оба объекта имеют **один и тот же байткод-класс&#x20;**`ArrayList`
+✅ Оба объекта имеют **один и тот же байткод-класс** `ArrayList`
 
 
 ❌ Нельзя создать массив обобщённого типа:
