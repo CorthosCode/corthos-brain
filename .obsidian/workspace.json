@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "69137be553a21e65",
+        "id": "facb2c0db349f10d",
         "type": "tabs",
         "children": [
           {
-            "id": "a0fa4a4982e5cbc0",
+            "id": "136853a437f7e8ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Help/Собеседование.md",
+                "file": "Hibernate/Optional/📒 EntityManager.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Собеседование"
+              "title": "📒 EntityManager"
+            }
+          },
+          {
+            "id": "a481bf59c9d17aba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Help/Изучить.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Изучить"
             }
           }
         ]
@@ -142,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Help/Собеседование.md",
+                "file": "Hibernate/Optional/📒 EntityManager.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Собеседование"
+              "title": "Структура 📒 EntityManager"
             }
           },
           {
@@ -195,34 +209,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d7123a236ccbc90",
+  "active": "38e354ce81d4a9c9",
   "lastOpenFiles": [
-    "Java/Multithreading/☕ 3. Многопоточность (база).md",
-    "Help/Gaming PC.md",
-    "Data Base/Optional/Оптимистичная блокировка.md",
-    "Help/Изучить.md",
-    "Data Base/Optional/📘 HAVING в SQL.md",
-    "Testing/📗 Глава 11. Testcontainers — интеграционные тесты с реальными сервисами.md",
-    "Testing/📗 Глава 9. Mockito — Spies, ArgumentCaptor и продвинутые техники.md",
-    "Testing/📗 Глава 8. Mockito и моки.md",
-    "Hibernate/General/📒 Глава 6. Criteria API.md",
     "Hibernate/Optional/📒 @EntityGraph.md",
-    "Java/General/☕ Type erasure (стирание типов) — ключевая особенность дженериков (обобщений) в Java..md",
-    "Java/General/Types/☕ Часть 1. Базовые понятия и фундамент.md",
-    "Java/General/☕ Аннотации в Java.md",
-    "Java/Multithreading/☕ 12. Объединению объектов в пул — «нет»!.md",
-    "Java/Multithreading/☕ 10. Стоимость, вносимая потоком.md",
-    "Java/Multithreading/☕ 9. Сокращение конфликта блокировки.md",
-    "Java/Other/☕ Раннее и позднее связывание.md",
-    "Java/Other/☕ @SneakyThrows и его устройство.md",
+    "Hibernate/General/📒 Глава 6. Criteria API.md",
+    "Hibernate/General/📒 Глава 5.1 (Дополнение к 4 и 5 главам).md",
+    "Hibernate/General/📒 Глава 5. JPQL и HQL.md",
+    "Hibernate/General/📒 Глава 4. Подводные камни при работе с Hibernate Associations.md",
+    "Hibernate/General/📒 Глава 3. Маппинг сущностей.md",
+    "Hibernate/General/📒 Глава 2. Жизненный цикл объектов.md",
+    "Hibernate/General/📒 Глава 1. Введение и основы ORM.md",
     "Java/Multithreading/☕ 13. ForkJoinPool — параллельное исполнение с разделением задач.md",
-    "Java/Multithreading/☕ 11. Мониторинг задействованности процессоров.md",
-    "Java/Multithreading/☕ 8. Закон Амдала.md",
-    "Java/Multithreading/☕ 7. Выключение JVM.md",
-    "Java/Multithreading/☕ 6. Работа с непрерываемым блокированием.md",
     "Java/Multithreading/☕ 5. Отмена задач, прерывание потоков, поведение в многопоточности.md",
     "Java/Multithreading/☕ 4. Многопоточность (продолжение).md",
+    "Java/Multithreading/☕ 3. Многопоточность (база).md",
+    "Help/Изучить.md",
     "Java/Multithreading/☕ 2. Coffman conditions.md",
+    "Java/Multithreading/☕ 1. Многопоточность (глоссарий).md",
+    "Java/General/☕ Type erasure (стирание типов) — ключевая особенность дженериков (обобщений) в Java..md",
+    "Java/General/☕ Sealed classes в Java.md",
+    "Java/General/☕ Исключения в Java.md",
+    "Java/General/☕ Аннотации в Java.md",
+    "Java/General/Types/☕ Часть 3. Расширенные возможности типовой системы.md",
+    "Java/General/Types/☕ Часть 2. Преобразования типов, система типов JVM и дженерики.md",
+    "Java/General/Types/☕ Часть 1. Базовые понятия и фундамент.md",
+    "Help/Собеседование.md",
+    "Help/Gaming PC.md",
+    "Data Base/Optional/Оптимистичная блокировка.md",
+    "Data Base/Optional/📘 HAVING в SQL.md",
     "assets/-o7s0jcmuZXr3VeJV9BCagxq9uySAosXEuJ8-4gPO5o=.png",
     "assets/_I8qHLFzA5hWk_dhz7DxsrDKNrWUywIzdPtyH2Q-IRo=.png",
     "assets/ZoLM5jbEi1MIWpZlmbZv9uoTwMSEYBKdUHnZRdV5ODQ=.png",
