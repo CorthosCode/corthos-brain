@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Multithreading/☕ 3. Многопоточность (база).md",
+                "file": "Java/Other/☕ Раннее и позднее связывание.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "☕ 3. Многопоточность (база)"
+              "title": "☕ Раннее и позднее связывание"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Multithreading/☕ 3. Многопоточность (база).md",
+                "file": "Java/Other/☕ Раннее и позднее связывание.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура ☕ 3. Многопоточность (база)"
+              "title": "Структура ☕ Раннее и позднее связывание"
             }
           },
           {
@@ -197,6 +197,18 @@
   },
   "active": "38e354ce81d4a9c9",
   "lastOpenFiles": [
+    "Java/Other/☕ @SneakyThrows и его устройство.md",
+    "Java/Multithreading/☕ 13. ForkJoinPool — параллельное исполнение с разделением задач.md",
+    "Java/Multithreading/☕ 12. Объединению объектов в пул — «нет»!.md",
+    "Java/Multithreading/☕ 11. Мониторинг задействованности процессоров.md",
+    "Java/Multithreading/☕ 10. Стоимость, вносимая потоком.md",
+    "Java/Multithreading/☕ 9. Сокращение конфликта блокировки.md",
+    "Java/Multithreading/☕ 8. Закон Амдала.md",
+    "Java/Multithreading/☕ 7. Выключение JVM.md",
+    "Java/Multithreading/☕ 6. Работа с непрерываемым блокированием.md",
+    "Java/Multithreading/☕ 5. Отмена задач, прерывание потоков, поведение в многопоточности.md",
+    "Java/Multithreading/☕ 4. Многопоточность (продолжение).md",
+    "Java/Multithreading/☕ 3. Многопоточность (база).md",
     "Java/Multithreading/☕ 2. Coffman conditions.md",
     "Java/Multithreading/☕ 1. Многопоточность (глоссарий).md",
     "Java/General/☕ Type erasure (стирание типов) — ключевая особенность дженериков (обобщений) в Java..md",
@@ -211,18 +223,6 @@
     "Testing/📗 Глава 11. Testcontainers — интеграционные тесты с реальными сервисами.md",
     "Testing/📗 Глава 10. Тестирование в Spring Boot.md",
     "Testing/📗 Глава 9. Mockito — Spies, ArgumentCaptor и продвинутые техники.md",
-    "Testing/📗 Глава 8. Mockito и моки.md",
-    "Testing/📗 Глава 7. JUnit — Nested tests и Lifecycle.md",
-    "Testing/📗 Глава 6. Тестирование исключений и edge cases.md",
-    "Testing/📗 Глава 5. Параметризованные тесты в JUnit 5.md",
-    "Testing/📗 Глава 4. Структура и стили написания unit-тестов.md",
-    "Testing/📗 Глава 3. Assertions (утверждения в тестах).md",
-    "Testing/📗 Глава 2. JUnit — основа для unit-тестирования в Java.md",
-    "Testing/📗 Глава 1. Введение в тестирование и Unit-тесты.md",
-    "Testing/📗 @MockBean vs Mockito.mock().md",
-    "Spring Framework/База по теории.md",
-    "Security/🔐 11. Keycloak.md",
-    "Security/🔐 10. SAML 2.0 (Security Assertion Markup Language).md",
     "assets/-o7s0jcmuZXr3VeJV9BCagxq9uySAosXEuJ8-4gPO5o=.png",
     "assets/_I8qHLFzA5hWk_dhz7DxsrDKNrWUywIzdPtyH2Q-IRo=.png",
     "assets/ZoLM5jbEi1MIWpZlmbZv9uoTwMSEYBKdUHnZRdV5ODQ=.png",
