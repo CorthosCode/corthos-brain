@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Other/☕ Раннее и позднее связывание.md",
+                "file": "Help/Собеседование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "☕ Раннее и позднее связывание"
+              "title": "Собеседование"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Other/☕ Раннее и позднее связывание.md",
+                "file": "Help/Собеседование.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура ☕ Раннее и позднее связывание"
+              "title": "Структура Собеседование"
             }
           },
           {
@@ -195,34 +195,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38e354ce81d4a9c9",
+  "active": "7d7123a236ccbc90",
   "lastOpenFiles": [
-    "Java/Other/☕ @SneakyThrows и его устройство.md",
-    "Java/Multithreading/☕ 13. ForkJoinPool — параллельное исполнение с разделением задач.md",
+    "Java/Multithreading/☕ 3. Многопоточность (база).md",
+    "Help/Gaming PC.md",
+    "Data Base/Optional/Оптимистичная блокировка.md",
+    "Help/Изучить.md",
+    "Data Base/Optional/📘 HAVING в SQL.md",
+    "Testing/📗 Глава 11. Testcontainers — интеграционные тесты с реальными сервисами.md",
+    "Testing/📗 Глава 9. Mockito — Spies, ArgumentCaptor и продвинутые техники.md",
+    "Testing/📗 Глава 8. Mockito и моки.md",
+    "Hibernate/General/📒 Глава 6. Criteria API.md",
+    "Hibernate/Optional/📒 @EntityGraph.md",
+    "Java/General/☕ Type erasure (стирание типов) — ключевая особенность дженериков (обобщений) в Java..md",
+    "Java/General/Types/☕ Часть 1. Базовые понятия и фундамент.md",
+    "Java/General/☕ Аннотации в Java.md",
     "Java/Multithreading/☕ 12. Объединению объектов в пул — «нет»!.md",
-    "Java/Multithreading/☕ 11. Мониторинг задействованности процессоров.md",
     "Java/Multithreading/☕ 10. Стоимость, вносимая потоком.md",
     "Java/Multithreading/☕ 9. Сокращение конфликта блокировки.md",
+    "Java/Other/☕ Раннее и позднее связывание.md",
+    "Java/Other/☕ @SneakyThrows и его устройство.md",
+    "Java/Multithreading/☕ 13. ForkJoinPool — параллельное исполнение с разделением задач.md",
+    "Java/Multithreading/☕ 11. Мониторинг задействованности процессоров.md",
     "Java/Multithreading/☕ 8. Закон Амдала.md",
     "Java/Multithreading/☕ 7. Выключение JVM.md",
     "Java/Multithreading/☕ 6. Работа с непрерываемым блокированием.md",
     "Java/Multithreading/☕ 5. Отмена задач, прерывание потоков, поведение в многопоточности.md",
     "Java/Multithreading/☕ 4. Многопоточность (продолжение).md",
-    "Java/Multithreading/☕ 3. Многопоточность (база).md",
     "Java/Multithreading/☕ 2. Coffman conditions.md",
-    "Java/Multithreading/☕ 1. Многопоточность (глоссарий).md",
-    "Java/General/☕ Type erasure (стирание типов) — ключевая особенность дженериков (обобщений) в Java..md",
-    "Java/General/☕ Sealed classes в Java.md",
-    "Java/General/☕ Исключения в Java.md",
-    "Java/General/☕ Аннотации в Java.md",
-    "Java/General/Types/☕ Часть 3. Расширенные возможности типовой системы.md",
-    "Java/General/Types/☕ Часть 2. Преобразования типов, система типов JVM и дженерики.md",
-    "Java/General/Types/☕ Часть 1. Базовые понятия и фундамент.md",
-    "Testing/📗 Глава 13. End-to-End (E2E) тест с H2 (без Testcontainers).md",
-    "Testing/📗 Глава 12. End-to-End (E2E) тест Spring Boot приложения с Testcontainers.md",
-    "Testing/📗 Глава 11. Testcontainers — интеграционные тесты с реальными сервисами.md",
-    "Testing/📗 Глава 10. Тестирование в Spring Boot.md",
-    "Testing/📗 Глава 9. Mockito — Spies, ArgumentCaptor и продвинутые техники.md",
     "assets/-o7s0jcmuZXr3VeJV9BCagxq9uySAosXEuJ8-4gPO5o=.png",
     "assets/_I8qHLFzA5hWk_dhz7DxsrDKNrWUywIzdPtyH2Q-IRo=.png",
     "assets/ZoLM5jbEi1MIWpZlmbZv9uoTwMSEYBKdUHnZRdV5ODQ=.png",
