@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/🔐 11. Keycloak.md",
+                "file": "Java/General/☕ Загрузчики классов в JVM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🔐 11. Keycloak"
+              "title": "☕ Загрузчики классов в JVM"
+            }
+          },
+          {
+            "id": "6b5de6a4c2329755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/General/☕ Type erasure (стирание типов) — ключевая особенность дженериков (обобщений) в Java..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "☕ Type erasure (стирание типов) — ключевая особенность дженериков (обобщений) в Java."
             }
           }
         ]
@@ -196,6 +210,9 @@
   },
   "active": "611d585a1d5493b9",
   "lastOpenFiles": [
+    "Java/General/☕ Type erasure (стирание типов) — ключевая особенность дженериков (обобщений) в Java..md",
+    "Java/General/☕ Загрузчики классов в JVM.md",
+    "Security/🔐 11. Keycloak.md",
     "Data Base/General/📘 12. Группы операторов SQL (DDL, DML, DQL, TCL, DCL).md",
     "Data Base/Architecture/📘 Уровни изоляции транзакций (Isolation Levels).md",
     "Architecture/🔨 Декларативное и Императивное программирование.md",
@@ -218,10 +235,7 @@
     "Java/Multithreading/☕ 3. Многопоточность (база).md",
     "Java/Multithreading/☕ 2. Coffman conditions.md",
     "Java/Multithreading/☕ 1. Многопоточность (глоссарий).md",
-    "Java/General/☕ Type erasure (стирание типов) — ключевая особенность дженериков (обобщений) в Java..md",
     "Java/General/☕ Sealed classes в Java.md",
-    "Java/General/☕ Исключения в Java.md",
-    "Java/General/☕ Аннотации в Java.md",
     "assets/-o7s0jcmuZXr3VeJV9BCagxq9uySAosXEuJ8-4gPO5o=.png",
     "assets/_I8qHLFzA5hWk_dhz7DxsrDKNrWUywIzdPtyH2Q-IRo=.png",
     "assets/ZoLM5jbEi1MIWpZlmbZv9uoTwMSEYBKdUHnZRdV5ODQ=.png",
