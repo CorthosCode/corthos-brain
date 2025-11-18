@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "77bb576833fe83f7",
+        "id": "582470b66afa0d61",
         "type": "tabs",
         "children": [
           {
-            "id": "ca3368fb093eb826",
+            "id": "25789d32107b9a0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/📗 Глава 10.1 Tестирования REST-контроллеров в Spring Framework.md",
+                "file": "Testing/📗 Глава 1. Пирамида тестирования в разработке программного обеспечения.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📗 Глава 10.1 Tестирования REST-контроллеров в Spring Framework"
-            }
-          },
-          {
-            "id": "178a1f8af19ed4ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/📗 Глава 10. Тестирование в Spring Boot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "📗 Глава 10. Тестирование в Spring Boot"
+              "title": "📗 Глава 1. Пирамида тестирования в разработке программного обеспечения"
             }
           }
         ]
@@ -156,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/📗 Глава 10.1 Tестирования REST-контроллеров в Spring Framework.md",
+                "file": "Testing/📗 Глава 1. Пирамида тестирования в разработке программного обеспечения.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 📗 Глава 10.1 Tестирования REST-контроллеров в Spring Framework"
+              "title": "Структура 📗 Глава 1. Пирамида тестирования в разработке программного обеспечения"
             }
           },
           {
@@ -211,8 +197,12 @@
   },
   "active": "38e354ce81d4a9c9",
   "lastOpenFiles": [
-    "Testing/📗 Глава 10. Тестирование в Spring Boot.md",
+    "Testing/📗 Глава 10.2 @MockBean vs Mockito.mock().md",
     "Testing/📗 Глава 10.1 Tестирования REST-контроллеров в Spring Framework.md",
+    "Testing/📗 Глава 8. Mockito и моки.md",
+    "Testing/📗 Глава 1. Пирамида тестирования в разработке программного обеспечения.md",
+    "Testing/📗 Глава 9. Mockito — Spies, ArgumentCaptor и продвинутые техники.md",
+    "Testing/📗 Глава 10. Тестирование в Spring Boot.md",
     "Java/General/☕ Stream API.md",
     "Java/General/☕ Type erasure (стирание типов) — ключевая особенность дженериков (обобщений) в Java..md",
     "Java/Multithreading/☕ 14. Виртуальные потоки (Virtual Threads).md",
@@ -233,10 +223,6 @@
     "Security/🔐 11. Keycloak.md",
     "Data Base/General/📘 12. Группы операторов SQL (DDL, DML, DQL, TCL, DCL).md",
     "GraphQL/📑 GraphQL.md",
-    "Data Base/Architecture/📘 Версионирование данных.md",
-    "Hibernate/General/📒 Глава 2. Жизненный цикл объектов.md",
-    "Data Base/General/📘 16. TCL (Transaction Control Language).md",
-    "Hibernate/Optional/📒 EntityManager.md",
     "assets/-o7s0jcmuZXr3VeJV9BCagxq9uySAosXEuJ8-4gPO5o=.png",
     "assets/_I8qHLFzA5hWk_dhz7DxsrDKNrWUywIzdPtyH2Q-IRo=.png",
     "assets/ZoLM5jbEi1MIWpZlmbZv9uoTwMSEYBKdUHnZRdV5ODQ=.png",
