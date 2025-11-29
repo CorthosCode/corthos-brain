@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/📗 Глава 1. Пирамида тестирования в разработке программного обеспечения.md",
+                "file": "Git/Спецификация Conventional Commits 1.0.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📗 Глава 1. Пирамида тестирования в разработке программного обеспечения"
+              "title": "Спецификация Conventional Commits 1.0.0"
             }
           }
         ]
@@ -195,12 +195,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38e354ce81d4a9c9",
+  "active": "25789d32107b9a0f",
   "lastOpenFiles": [
+    "Testing/📗 Глава 13. End-to-End (E2E) тест с H2 (без Testcontainers).md",
+    "Git/Спецификация Conventional Commits 1.0.0.md",
+    "Security/🔐 1. Идентификация, авторизация, аутентификация.md",
+    "Help/📑 Essence - карманный гид.md",
+    "Testing/📗 Глава 1. Пирамида тестирования в разработке программного обеспечения.md",
+    "Git",
     "Testing/📗 Глава 10.2 @MockBean vs Mockito.mock().md",
     "Testing/📗 Глава 10.1 Tестирования REST-контроллеров в Spring Framework.md",
     "Testing/📗 Глава 8. Mockito и моки.md",
-    "Testing/📗 Глава 1. Пирамида тестирования в разработке программного обеспечения.md",
     "Testing/📗 Глава 9. Mockito — Spies, ArgumentCaptor и продвинутые техники.md",
     "Testing/📗 Глава 10. Тестирование в Spring Boot.md",
     "Java/General/☕ Stream API.md",
@@ -219,10 +224,6 @@
     "Architecture/🔨 Поведение vs Архитектура.md",
     "Architecture/🔨 Декларативное и Императивное программирование.md",
     "Help/Изучить.md",
-    "Java/General/☕ Загрузчики классов в JVM.md",
-    "Security/🔐 11. Keycloak.md",
-    "Data Base/General/📘 12. Группы операторов SQL (DDL, DML, DQL, TCL, DCL).md",
-    "GraphQL/📑 GraphQL.md",
     "assets/-o7s0jcmuZXr3VeJV9BCagxq9uySAosXEuJ8-4gPO5o=.png",
     "assets/_I8qHLFzA5hWk_dhz7DxsrDKNrWUywIzdPtyH2Q-IRo=.png",
     "assets/ZoLM5jbEi1MIWpZlmbZv9uoTwMSEYBKdUHnZRdV5ODQ=.png",
@@ -241,7 +242,6 @@
     "Architecture",
     "Testing",
     "Hibernate/Other",
-    "Hibernate/Новая папка",
-    "Hibernate/Optional"
+    "Hibernate/Новая папка"
   ]
 }
