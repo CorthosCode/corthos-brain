@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture/Microservices/♻️ 0. База по микросервисам.md",
+                "file": "Problems/📖 Палиндромы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "♻️ 0. База по микросервисам"
+              "title": "📖 Палиндромы"
             }
           }
         ]
@@ -197,10 +197,12 @@
   },
   "active": "5483e58e7b9fc33a",
   "lastOpenFiles": [
+    "Problems/📖 Палиндромы.md",
+    "Architecture/Microservices/♻️ 0. База по микросервисам.md",
+    "Problems",
     "assets/Microservices/recommendation.png",
     "Architecture/Microservices/♻️ 7. Шаблоны сборки (развертывания) микросервисов.md",
     "assets/Microservices/deployment_template.png",
-    "Architecture/Microservices/♻️ 0. База по микросервисам.md",
     "Architecture/Microservices/♻️ 6. Шаблон сбора метрик приложения.md",
     "assets/Microservices/metrics_template.png",
     "Architecture/Microservices/♻️ 5. Шаблоны журналирования и трассировки.md",
@@ -235,13 +237,11 @@
     "Data Base/Architecture/📘 ACID.md",
     "Data Base/Architecture/📘 Уровни изоляции транзакций (Isolation Levels).md",
     "assets/-o7s0jcmuZXr3VeJV9BCagxq9uySAosXEuJ8-4gPO5o=.png",
-    "assets/_I8qHLFzA5hWk_dhz7DxsrDKNrWUywIzdPtyH2Q-IRo=.png",
     "assets",
     "Help",
     "Новая папка",
     "Math",
     "GraphQL",
-    "Architecture",
-    "Testing"
+    "Architecture"
   ]
 }
