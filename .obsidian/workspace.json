@@ -191,8 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d7123a236ccbc90",
+  "active": "38e354ce81d4a9c9",
   "lastOpenFiles": [
+    "Problems/📖 Палиндромы.md",
+    "Problems",
     "Architecture/Microservices/♻️ 3. Устойчивость клиентов.md",
     "Spring Framework/🍃 0. Spring Cloud.md",
     "Architecture/Microservices/♻️ 0.1. Шаблоны проектирования микросервисов.md",
@@ -236,7 +238,6 @@
     "Новая папка",
     "Math",
     "GraphQL",
-    "Architecture",
-    "Testing"
+    "Architecture"
   ]
 }
