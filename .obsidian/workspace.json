@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d2f59c83c0d0dee3",
+        "id": "50f902ba5c2c3fe0",
         "type": "tabs",
         "children": [
           {
-            "id": "aeda12fa2cbf2a81",
+            "id": "8e3d070e002880c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Microservices/♻️ 9. Приложение двенадцати факторов.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "♻️ 9. Приложение двенадцати факторов"
             }
           }
         ]
@@ -191,33 +195,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38e354ce81d4a9c9",
+  "active": "8e3d070e002880c2",
   "lastOpenFiles": [
+    "assets/Microservices/logging.png",
+    "assets/Microservices/vertical_horizontal.png",
+    "assets/Microservices/processes.png",
+    "assets/Microservices/build_delivery_run.png",
+    "assets/Microservices/other_services.png",
+    "assets/Microservices/configuration.png",
+    "assets/Microservices/dependencies.png",
+    "assets/Microservices/code_base.png",
+    "assets/Microservices/12_factors.png",
+    "Architecture/Microservices/♻️ 8. Приемы создания микросервисов.md",
+    "Architecture/Microservices/♻️ 9. Приложение двенадцати факторов.md",
+    "assets/Microservices/cloud_app.png",
+    "Architecture/Microservices/♻️ 0. База по микросервисам.md",
+    "Spring Framework/🍃 0. Spring Cloud.md",
     "Problems/📖 Палиндромы.md",
     "Problems",
     "Architecture/Microservices/♻️ 3. Устойчивость клиентов.md",
-    "Spring Framework/🍃 0. Spring Cloud.md",
     "Architecture/Microservices/♻️ 0.1. Шаблоны проектирования микросервисов.md",
-    "Architecture/Microservices/♻️ 0. База по микросервисам.md",
     "assets/Microservices/spring_cloud.png",
     "Architecture/Microservices/♻️ 1. Базовый шаблон разработки микросервисов.md",
-    "assets/Microservices/recommendation.png",
     "Architecture/Microservices/♻️ 7. Шаблоны сборки (развертывания) микросервисов.md",
-    "assets/Microservices/deployment_template.png",
     "Architecture/Microservices/♻️ 6. Шаблон сбора метрик приложения.md",
-    "assets/Microservices/metrics_template.png",
     "Architecture/Microservices/♻️ 5. Шаблоны журналирования и трассировки.md",
-    "assets/Microservices/logging_template.png",
     "Architecture/Microservices/♻️ 4. Шаблоны безопасности.md",
-    "assets/Microservices/security_template.png",
     "Architecture/Microservices/♻️ 2. Шаблоны маршрутизации.md",
-    "assets/Microservices/ustoichevost_clientov.png",
     "assets/Microservices",
-    "assets/Microservices/marshrut_template.png",
     "Architecture/Microservices/1..md",
     "Architecture/Microservices",
-    "assets/Microservices/base_architecture_template.png",
-    "assets/Microservices/as_a_service.png",
     "Git/🧰 Спецификация Conventional Commits 1.0.0.md",
     "Testing/📗 Глава 1. Пирамида тестирования в разработке программного обеспечения.md",
     "Testing/📗 Глава 13. End-to-End (E2E) тест с H2 (без Testcontainers).md",
@@ -230,9 +237,6 @@
     "Testing/📗 Глава 9. Mockito — Spies, ArgumentCaptor и продвинутые техники.md",
     "Testing/📗 Глава 10. Тестирование в Spring Boot.md",
     "Java/General/☕ Stream API.md",
-    "Java/General/☕ Type erasure (стирание типов) — ключевая особенность дженериков (обобщений) в Java..md",
-    "Java/Multithreading/☕ 14. Виртуальные потоки (Virtual Threads).md",
-    "Java/Multithreading/☕ 15. Scoped Values.md",
     "assets",
     "Help",
     "Новая папка",
