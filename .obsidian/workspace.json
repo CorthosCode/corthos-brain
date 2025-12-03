@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1e5602ac89158c86",
+        "id": "c871899f9acfd22d",
         "type": "tabs",
         "children": [
           {
-            "id": "b3f619fb33351ad2",
+            "id": "8e5357d712cd558d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Data Base/General/📘 2. Реляционная модель данных структурный аспект.md",
-                "bFile": "Data Base/General/📘 2. Реляционная модель данных структурный аспект.md",
-                "aRef": ""
+                "file": "Architecture/Microservices/♻️ 10. Основные роли при проектировании микросервисов.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 📘 2. Реляционная модель данных структурный аспект"
+              "icon": "lucide-file",
+              "title": "♻️ 10. Основные роли при проектировании микросервисов"
             }
           }
         ]
@@ -142,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Architecture/Microservices/♻️ 10. Основные роли при проектировании микросервисов.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура ♻️ 10. Основные роли при проектировании микросервисов"
             }
           },
           {
@@ -194,8 +195,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3f619fb33351ad2",
+  "active": "8e5357d712cd558d",
   "lastOpenFiles": [
+    "Architecture/Microservices/♻️ 10.1. Модель зрелости Ричардсона.md",
+    "Architecture/Microservices/HATEOAS.md",
+    "assets/Microservices/level_3.png",
+    "assets/Microservices/level_2.png",
+    "assets/Microservices/level_1.png",
+    "assets/Microservices/level_0.png",
+    "assets/Microservices/richardson_model.png",
+    "Architecture/Microservices/♻️ 10. Основные роли при проектировании микросервисов.md",
+    "assets/Microservices/detail_sluzhba.png",
+    "Architecture/Microservices/♻️ 9. Приложение двенадцати факторов.md",
     "Help/Собеседование.md",
     "Data Base/Optional/Оптимистичная блокировка.md",
     "Data Base/Optional/📘 HAVING в SQL.md",
@@ -218,20 +229,10 @@
     "Java/Multithreading/☕ 4. Многопоточность (продолжение).md",
     "Java/Multithreading/☕ 3. Многопоточность (база).md",
     "Java/General/☕ Sealed classes в Java.md",
-    "Java/General/☕ Исключения в Java.md",
-    "Java/General/☕ Stream API.md",
-    "Architecture/Microservices/♻️ 9. Приложение двенадцати факторов.md",
     "assets/Microservices/logging.png",
     "assets/Microservices/vertical_horizontal.png",
     "assets/Microservices/processes.png",
     "assets/Microservices/build_delivery_run.png",
-    "assets/Microservices/other_services.png",
-    "assets/Microservices/configuration.png",
-    "assets/Microservices/dependencies.png",
-    "assets/Microservices/code_base.png",
-    "assets/Microservices/12_factors.png",
-    "Architecture/Microservices/♻️ 8. Приемы создания микросервисов.md",
-    "assets/Microservices/cloud_app.png",
     "Problems",
     "assets/Microservices",
     "Architecture/Microservices",
