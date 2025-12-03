@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "50f902ba5c2c3fe0",
+        "id": "1e5602ac89158c86",
         "type": "tabs",
         "children": [
           {
-            "id": "8e3d070e002880c2",
+            "id": "b3f619fb33351ad2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Architecture/Microservices/♻️ 9. Приложение двенадцати факторов.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Data Base/General/📘 2. Реляционная модель данных структурный аспект.md",
+                "bFile": "Data Base/General/📘 2. Реляционная модель данных структурный аспект.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "♻️ 9. Приложение двенадцати факторов"
+              "icon": "diff",
+              "title": "Diff: 📘 2. Реляционная модель данных структурный аспект"
             }
           }
         ]
@@ -142,13 +142,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/📗 Глава 1. Пирамида тестирования в разработке программного обеспечения.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 📗 Глава 1. Пирамида тестирования в разработке программного обеспечения"
+              "title": "Структура"
             }
           },
           {
@@ -180,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 374.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,8 +194,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e3d070e002880c2",
+  "active": "b3f619fb33351ad2",
   "lastOpenFiles": [
+    "Help/Собеседование.md",
+    "Data Base/Optional/Оптимистичная блокировка.md",
+    "Data Base/Optional/📘 HAVING в SQL.md",
+    "Data Base/Optional/📘 DISTINCT в SQL.md",
+    "Data Base/Optional/📘 Ссылочная целостность (Referential Integrity).md",
+    "Data Base/General/📘 12. Группы операторов SQL (DDL, DML, DQL, TCL, DCL).md",
+    "Data Base/General/📘 11. Предикаты сравнения истинности (truth value predicates).md",
+    "Data Base/General/📘 10. Тернарная логика в БД.md",
+    "Data Base/General/📘 2. Реляционная модель данных структурный аспект.md",
+    "Data Base/General/📘 1. Модели данных в базах данных.md",
+    "Data Base/Architecture/📘 ACID.md",
+    "Data Base/Architecture/📘 Уровни изоляции транзакций (Isolation Levels).md",
+    "Data Base/Architecture/📘 Версионирование данных.md",
+    "Java/Multithreading/☕ 16. Structured Concurrency.md",
+    "Java/Multithreading/☕ 15. Scoped Values.md",
+    "Java/Multithreading/☕ 14. Виртуальные потоки (Virtual Threads).md",
+    "Java/Multithreading/☕ 13. ForkJoinPool — параллельное исполнение с разделением задач.md",
+    "Java/Multithreading/☕ 6. Работа с непрерываемым блокированием.md",
+    "Java/Multithreading/☕ 5. Отмена задач, прерывание потоков, поведение в многопоточности.md",
+    "Java/Multithreading/☕ 4. Многопоточность (продолжение).md",
+    "Java/Multithreading/☕ 3. Многопоточность (база).md",
+    "Java/General/☕ Sealed classes в Java.md",
+    "Java/General/☕ Исключения в Java.md",
+    "Java/General/☕ Stream API.md",
+    "Architecture/Microservices/♻️ 9. Приложение двенадцати факторов.md",
     "assets/Microservices/logging.png",
     "assets/Microservices/vertical_horizontal.png",
     "assets/Microservices/processes.png",
@@ -207,36 +231,11 @@
     "assets/Microservices/code_base.png",
     "assets/Microservices/12_factors.png",
     "Architecture/Microservices/♻️ 8. Приемы создания микросервисов.md",
-    "Architecture/Microservices/♻️ 9. Приложение двенадцати факторов.md",
     "assets/Microservices/cloud_app.png",
-    "Architecture/Microservices/♻️ 0. База по микросервисам.md",
-    "Spring Framework/🍃 0. Spring Cloud.md",
-    "Problems/📖 Палиндромы.md",
     "Problems",
-    "Architecture/Microservices/♻️ 3. Устойчивость клиентов.md",
-    "Architecture/Microservices/♻️ 0.1. Шаблоны проектирования микросервисов.md",
-    "assets/Microservices/spring_cloud.png",
-    "Architecture/Microservices/♻️ 1. Базовый шаблон разработки микросервисов.md",
-    "Architecture/Microservices/♻️ 7. Шаблоны сборки (развертывания) микросервисов.md",
-    "Architecture/Microservices/♻️ 6. Шаблон сбора метрик приложения.md",
-    "Architecture/Microservices/♻️ 5. Шаблоны журналирования и трассировки.md",
-    "Architecture/Microservices/♻️ 4. Шаблоны безопасности.md",
-    "Architecture/Microservices/♻️ 2. Шаблоны маршрутизации.md",
     "assets/Microservices",
-    "Architecture/Microservices/1..md",
     "Architecture/Microservices",
-    "Git/🧰 Спецификация Conventional Commits 1.0.0.md",
-    "Testing/📗 Глава 1. Пирамида тестирования в разработке программного обеспечения.md",
-    "Testing/📗 Глава 13. End-to-End (E2E) тест с H2 (без Testcontainers).md",
-    "Security/🔐 1. Идентификация, авторизация, аутентификация.md",
-    "Help/📑 Essence - карманный гид.md",
     "Git",
-    "Testing/📗 Глава 10.2 @MockBean vs Mockito.mock().md",
-    "Testing/📗 Глава 10.1 Tестирования REST-контроллеров в Spring Framework.md",
-    "Testing/📗 Глава 8. Mockito и моки.md",
-    "Testing/📗 Глава 9. Mockito — Spies, ArgumentCaptor и продвинутые техники.md",
-    "Testing/📗 Глава 10. Тестирование в Spring Boot.md",
-    "Java/General/☕ Stream API.md",
     "assets",
     "Help",
     "Новая папка",
