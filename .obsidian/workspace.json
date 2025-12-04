@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture/Microservices/♻️ 10. Основные роли и задачи при проектировании микросервисов.md",
+                "file": "Architecture/Microservices/♻️ 12. Добро пожаловать в Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "♻️ 10. Основные роли и задачи при проектировании микросервисов"
+              "title": "♻️ 12. Добро пожаловать в Docker"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture/Microservices/♻️ 10. Основные роли и задачи при проектировании микросервисов.md",
+                "file": "Architecture/Microservices/♻️ 12. Добро пожаловать в Docker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура ♻️ 10. Основные роли и задачи при проектировании микросервисов"
+              "title": "Структура ♻️ 12. Добро пожаловать в Docker"
             }
           },
           {
@@ -195,24 +195,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38e354ce81d4a9c9",
+  "active": "8e5357d712cd558d",
   "lastOpenFiles": [
+    "assets/Microservices/docker_compose_command.png",
+    "assets/Microservices/docker_compose_instruction.png",
+    "assets/Microservices/dockerfile_command.png",
+    "assets/Microservices/docker_command.png",
+    "assets/Microservices/docker.png",
+    "assets/Microservices/vm_vs_container.png",
+    "Architecture/Microservices/♻️ 10. Основные роли и задачи при проектировании микросервисов.md",
+    "Architecture/Microservices/♻️ 12. Добро пожаловать в Docker.md",
     "assets/Microservices/monitoring.png",
     "assets/Microservices/service_register.png",
     "assets/Microservices/init.png",
     "Architecture/Microservices/♻️ 11. Когда не следует использовать микросервисы.md",
     "Architecture/Microservices/HATEOAS.md",
-    "Architecture/Microservices/♻️ 10. Основные роли и задачи при проектировании микросервисов.md",
     "assets/Microservices/assembly.png",
     "assets/Microservices/devops.png",
     "Architecture/Microservices/♻️ 10.1. Модель зрелости Ричардсона.md",
     "Architecture/Microservices/♻️ 6. Шаблон сбора метрик приложения.md",
-    "assets/Microservices/level_3.png",
-    "assets/Microservices/level_2.png",
-    "assets/Microservices/level_1.png",
-    "assets/Microservices/level_0.png",
-    "assets/Microservices/richardson_model.png",
-    "assets/Microservices/detail_sluzhba.png",
     "Architecture/Microservices/♻️ 9. Приложение двенадцати факторов.md",
     "Help/Собеседование.md",
     "Data Base/Optional/Оптимистичная блокировка.md",
@@ -232,7 +233,6 @@
     "Java/Multithreading/☕ 14. Виртуальные потоки (Virtual Threads).md",
     "Java/Multithreading/☕ 13. ForkJoinPool — параллельное исполнение с разделением задач.md",
     "Java/Multithreading/☕ 6. Работа с непрерываемым блокированием.md",
-    "Java/Multithreading/☕ 5. Отмена задач, прерывание потоков, поведение в многопоточности.md",
     "Problems",
     "assets/Microservices",
     "Architecture/Microservices",
