@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture/Microservices/♻️ 10. Основные роли при проектировании микросервисов.md",
+                "file": "Architecture/Microservices/♻️ 10. Основные роли и задачи при проектировании микросервисов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "♻️ 10. Основные роли при проектировании микросервисов"
+              "title": "♻️ 10. Основные роли и задачи при проектировании микросервисов"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture/Microservices/♻️ 10. Основные роли при проектировании микросервисов.md",
+                "file": "Architecture/Microservices/♻️ 10. Основные роли и задачи при проектировании микросервисов.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура ♻️ 10. Основные роли при проектировании микросервисов"
+              "title": "Структура ♻️ 10. Основные роли и задачи при проектировании микросервисов"
             }
           },
           {
@@ -195,16 +195,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e5357d712cd558d",
+  "active": "38e354ce81d4a9c9",
   "lastOpenFiles": [
-    "Architecture/Microservices/♻️ 10.1. Модель зрелости Ричардсона.md",
+    "assets/Microservices/monitoring.png",
+    "assets/Microservices/service_register.png",
+    "assets/Microservices/init.png",
+    "Architecture/Microservices/♻️ 11. Когда не следует использовать микросервисы.md",
     "Architecture/Microservices/HATEOAS.md",
+    "Architecture/Microservices/♻️ 10. Основные роли и задачи при проектировании микросервисов.md",
+    "assets/Microservices/assembly.png",
+    "assets/Microservices/devops.png",
+    "Architecture/Microservices/♻️ 10.1. Модель зрелости Ричардсона.md",
+    "Architecture/Microservices/♻️ 6. Шаблон сбора метрик приложения.md",
     "assets/Microservices/level_3.png",
     "assets/Microservices/level_2.png",
     "assets/Microservices/level_1.png",
     "assets/Microservices/level_0.png",
     "assets/Microservices/richardson_model.png",
-    "Architecture/Microservices/♻️ 10. Основные роли при проектировании микросервисов.md",
     "assets/Microservices/detail_sluzhba.png",
     "Architecture/Microservices/♻️ 9. Приложение двенадцати факторов.md",
     "Help/Собеседование.md",
@@ -226,13 +233,6 @@
     "Java/Multithreading/☕ 13. ForkJoinPool — параллельное исполнение с разделением задач.md",
     "Java/Multithreading/☕ 6. Работа с непрерываемым блокированием.md",
     "Java/Multithreading/☕ 5. Отмена задач, прерывание потоков, поведение в многопоточности.md",
-    "Java/Multithreading/☕ 4. Многопоточность (продолжение).md",
-    "Java/Multithreading/☕ 3. Многопоточность (база).md",
-    "Java/General/☕ Sealed classes в Java.md",
-    "assets/Microservices/logging.png",
-    "assets/Microservices/vertical_horizontal.png",
-    "assets/Microservices/processes.png",
-    "assets/Microservices/build_delivery_run.png",
     "Problems",
     "assets/Microservices",
     "Architecture/Microservices",
