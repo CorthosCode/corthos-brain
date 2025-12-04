@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture/Microservices/♻️ 12. Добро пожаловать в Docker.md",
+                "file": "Architecture/Microservices/♻️ 13. Управление конфигурациями.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "♻️ 12. Добро пожаловать в Docker"
+              "title": "♻️ 13. Управление конфигурациями"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture/Microservices/♻️ 12. Добро пожаловать в Docker.md",
+                "file": "Architecture/Microservices/♻️ 13. Управление конфигурациями.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура ♻️ 12. Добро пожаловать в Docker"
+              "title": "Структура ♻️ 13. Управление конфигурациями"
             }
           },
           {
@@ -197,6 +197,8 @@
   },
   "active": "8e5357d712cd558d",
   "lastOpenFiles": [
+    "Architecture/Microservices/♻️ 13. Управление конфигурациями.md",
+    "Architecture/Microservices/♻️ 12. Добро пожаловать в Docker.md",
     "assets/Microservices/docker_compose_command.png",
     "assets/Microservices/docker_compose_instruction.png",
     "assets/Microservices/dockerfile_command.png",
@@ -204,14 +206,12 @@
     "assets/Microservices/docker.png",
     "assets/Microservices/vm_vs_container.png",
     "Architecture/Microservices/♻️ 10. Основные роли и задачи при проектировании микросервисов.md",
-    "Architecture/Microservices/♻️ 12. Добро пожаловать в Docker.md",
     "assets/Microservices/monitoring.png",
     "assets/Microservices/service_register.png",
     "assets/Microservices/init.png",
     "Architecture/Microservices/♻️ 11. Когда не следует использовать микросервисы.md",
     "Architecture/Microservices/HATEOAS.md",
     "assets/Microservices/assembly.png",
-    "assets/Microservices/devops.png",
     "Architecture/Microservices/♻️ 10.1. Модель зрелости Ричардсона.md",
     "Architecture/Microservices/♻️ 6. Шаблон сбора метрик приложения.md",
     "Architecture/Microservices/♻️ 9. Приложение двенадцати факторов.md",
