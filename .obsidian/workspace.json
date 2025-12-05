@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture/Microservices/♻️ 13. Управление конфигурациями.md",
+                "file": "Spring Framework/🍃 0.1 Spring Cloud properties-files.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "♻️ 13. Управление конфигурациями"
+              "title": "🍃 0.1 Spring Cloud properties-files"
             }
           }
         ]
@@ -197,9 +197,12 @@
   },
   "active": "8e5357d712cd558d",
   "lastOpenFiles": [
+    "assets/Microservices/spring_cloud_config.png",
+    "Spring Framework/🍃 0. Spring Cloud.md",
+    "Spring Framework/🍃 0.1 Spring Cloud properties-files.md",
+    "Architecture/Microservices/♻️ 13. Управление конфигурациями.md",
     "assets/Microservices/configuration_architecture_2.png",
     "assets/Microservices/configuration_architecture.png",
-    "Architecture/Microservices/♻️ 13. Управление конфигурациями.md",
     "Architecture/Microservices/♻️ 12. Добро пожаловать в Docker.md",
     "assets/Microservices/docker_compose_command.png",
     "assets/Microservices/docker_compose_instruction.png",
@@ -210,7 +213,6 @@
     "Architecture/Microservices/♻️ 10. Основные роли и задачи при проектировании микросервисов.md",
     "assets/Microservices/monitoring.png",
     "assets/Microservices/service_register.png",
-    "assets/Microservices/init.png",
     "Architecture/Microservices/♻️ 11. Когда не следует использовать микросервисы.md",
     "Architecture/Microservices/HATEOAS.md",
     "Architecture/Microservices/♻️ 10.1. Модель зрелости Ричардсона.md",
@@ -231,8 +233,6 @@
     "Data Base/Architecture/📘 Версионирование данных.md",
     "Java/Multithreading/☕ 16. Structured Concurrency.md",
     "Java/Multithreading/☕ 15. Scoped Values.md",
-    "Java/Multithreading/☕ 14. Виртуальные потоки (Virtual Threads).md",
-    "Java/Multithreading/☕ 13. ForkJoinPool — параллельное исполнение с разделением задач.md",
     "Problems",
     "assets/Microservices",
     "Architecture/Microservices",
