@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c871899f9acfd22d",
+        "id": "e890eaef182a5e63",
         "type": "tabs",
         "children": [
           {
-            "id": "8e5357d712cd558d",
+            "id": "ea7a37b03b85ffe1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Framework/🍃 0.1 Spring Cloud properties-files.md",
+                "file": "Spring Framework/MongoDb/🍃 @Document.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🍃 0.1 Spring Cloud properties-files"
+              "title": "🍃 @Document"
             }
           }
         ]
@@ -195,11 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e5357d712cd558d",
+  "active": "ea7a37b03b85ffe1",
   "lastOpenFiles": [
-    "assets/Microservices/spring_cloud_config.png",
     "Spring Framework/🍃 0. Spring Cloud.md",
+    "Spring Framework/MongoDb/🍃 @Document.md",
+    "Spring Framework/MongoDb",
     "Spring Framework/🍃 0.1 Spring Cloud properties-files.md",
+    "assets/Microservices/spring_cloud_config.png",
     "Architecture/Microservices/♻️ 13. Управление конфигурациями.md",
     "assets/Microservices/configuration_architecture_2.png",
     "assets/Microservices/configuration_architecture.png",
@@ -212,7 +214,6 @@
     "assets/Microservices/vm_vs_container.png",
     "Architecture/Microservices/♻️ 10. Основные роли и задачи при проектировании микросервисов.md",
     "assets/Microservices/monitoring.png",
-    "assets/Microservices/service_register.png",
     "Architecture/Microservices/♻️ 11. Когда не следует использовать микросервисы.md",
     "Architecture/Microservices/HATEOAS.md",
     "Architecture/Microservices/♻️ 10.1. Модель зрелости Ричардсона.md",
@@ -241,7 +242,6 @@
     "Help",
     "Новая папка",
     "Math",
-    "GraphQL",
-    "Architecture"
+    "GraphQL"
   ]
 }
