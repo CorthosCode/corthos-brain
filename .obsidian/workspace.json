@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fe73319b1f68c65f",
+        "id": "9834923f5d3bfeb6",
         "type": "tabs",
         "children": [
           {
-            "id": "1b5b0d9cd7929678",
+            "id": "62154a323e3fe981",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Kotlin/☕ @JvmOverloads.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "☕ @JvmOverloads"
             }
           }
         ]
@@ -191,8 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38e354ce81d4a9c9",
+  "active": "7d7123a236ccbc90",
   "lastOpenFiles": [
+    "Kotlin",
+    "Java/Other/☕ @SneakyThrows и его устройство.md",
+    "Kotlin/☕ @JvmOverloads.md",
+    "Java/Other/☕ Раннее и позднее связывание.md",
     "Spring Framework/🍃 0. Spring Cloud.md",
     "Spring Framework/MongoDb/🍃 @Document.md",
     "Spring Framework/MongoDb",
@@ -226,10 +234,6 @@
     "Data Base/General/📘 2. Реляционная модель данных структурный аспект.md",
     "Data Base/General/📘 1. Модели данных в базах данных.md",
     "Data Base/Architecture/📘 ACID.md",
-    "Data Base/Architecture/📘 Уровни изоляции транзакций (Isolation Levels).md",
-    "Data Base/Architecture/📘 Версионирование данных.md",
-    "Java/Multithreading/☕ 16. Structured Concurrency.md",
-    "Java/Multithreading/☕ 15. Scoped Values.md",
     "Problems",
     "assets/Microservices",
     "Architecture/Microservices",
