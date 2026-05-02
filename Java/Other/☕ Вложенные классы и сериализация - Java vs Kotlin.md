@@ -115,6 +115,20 @@ class Button : View {
 
 ---
 
+## Доступа из класса Inner к классу Outer
+
+Для доступа из класса Inner к классу Outer применяется аннотация this@Outer:
+
+```kotlin
+class Outer {
+	inner class Inner {
+		fun getOuterReference(): Outer = this@Outer
+	}
+}
+```
+
+---
+
 ## Сравнительная таблица
 
 |Характеристика|Java (default)|Java (`static`)|Kotlin (default)|Kotlin (`inner`)|
