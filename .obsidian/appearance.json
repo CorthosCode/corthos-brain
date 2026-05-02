@@ -1,4 +1,7 @@
 {
   "cssTheme": "Things",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "ZoteroHighlights"
+  ]
 }
