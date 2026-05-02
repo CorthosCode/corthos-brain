@@ -11,10 +11,14 @@
             "id": "192ac7d43c0c193a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Java/Other/☕ Вложенные классы и сериализация - Java vs Kotlin.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "☕ Вложенные классы и сериализация - Java vs Kotlin"
             }
           }
         ]
@@ -193,6 +197,8 @@
   },
   "active": "192ac7d43c0c193a",
   "lastOpenFiles": [
+    "Java/Other/☕ Раннее и позднее связывание.md",
+    "Java/Other/☕ Вложенные классы и сериализация - Java vs Kotlin.md",
     "_zotero/Kotlin in action (key).md",
     "_template/ZOTERO.md",
     "Kotlin/☕ @JvmOverloads.md",
@@ -201,7 +207,6 @@
     "_attachments",
     "Java/Other/☕ @SneakyThrows и его устройство.md",
     "Kotlin",
-    "Java/Other/☕ Раннее и позднее связывание.md",
     "Spring Framework/🍃 0. Spring Cloud.md",
     "Spring Framework/MongoDb/🍃 @Document.md",
     "Spring Framework/MongoDb",
@@ -233,7 +238,6 @@
     "Data Base/General/📘 11. Предикаты сравнения истинности (truth value predicates).md",
     "Data Base/General/📘 10. Тернарная логика в БД.md",
     "Data Base/General/📘 2. Реляционная модель данных структурный аспект.md",
-    "Data Base/General/📘 1. Модели данных в базах данных.md",
     "Problems",
     "assets/Microservices",
     "Architecture/Microservices",
