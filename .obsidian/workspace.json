@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Объект-компаньон и реализация интерфейсов в Kotlin.md",
+                "file": "Kotlin/Без названия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Объект-компаньон и реализация интерфейсов в Kotlin"
+              "title": "Без названия"
             }
           }
         ]
@@ -197,6 +197,8 @@
   },
   "active": "bc0cdadd01e4377f",
   "lastOpenFiles": [
+    "Kotlin/`value class` в Kotlin.md",
+    "Kotlin/Без названия.md",
     "Kotlin/Объект-компаньон и реализация интерфейсов в Kotlin.md",
     "Kotlin/Объект-компаньон в Kotlin и отличие от static в Java.md",
     "Java/Multithreading/☕ 3. Многопоточность (база).md",
@@ -237,8 +239,6 @@
     "Architecture/Microservices/♻️ 11. Когда не следует использовать микросервисы.md",
     "Architecture/Microservices/HATEOAS.md",
     "Architecture/Microservices/♻️ 10.1. Модель зрелости Ричардсона.md",
-    "Architecture/Microservices/♻️ 6. Шаблон сбора метрик приложения.md",
-    "Architecture/Microservices/♻️ 9. Приложение двенадцати факторов.md",
     "Problems",
     "assets/Microservices",
     "Architecture/Microservices",
