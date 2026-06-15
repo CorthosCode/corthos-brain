@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e11cfd9342280242",
+        "id": "7c3038dd1d2d7496",
         "type": "tabs",
         "children": [
           {
-            "id": "389fff7230f26954",
+            "id": "bc0cdadd01e4377f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Kotlin/Объект-компаньон в Kotlin и отличие от static в Java.md",
+                "bFile": "Kotlin/Объект-компаньон в Kotlin и отличие от static в Java.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Объект-компаньон в Kotlin и отличие от static в Java  (Working Tree)"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 433.5
   },
   "right": {
     "id": "c235b3a57f834e64",
@@ -191,8 +195,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "389fff7230f26954",
+  "active": "38e354ce81d4a9c9",
   "lastOpenFiles": [
+    "Kotlin/Объект-компаньон в Kotlin и отличие от static в Java.md",
+    "Java/Multithreading/☕ 3. Многопоточность (база).md",
+    "Java/Multithreading/☕ 9. Сокращение конфликта блокировки.md",
+    "Other/Ссылки на чтиво.md",
+    "Help/Изучить.md",
+    "Other",
+    "Help/Собеседование.md",
+    "Help/Узнать.md",
     "Kotlin/☕ Sealed Classes в Kotlin.md",
     "Kotlin/☕ @JvmOverloads.md",
     "Java/Other/☕ Вложенные классы и сериализация - Java vs Kotlin.md",
@@ -226,18 +238,10 @@
     "Architecture/Microservices/♻️ 10.1. Модель зрелости Ричардсона.md",
     "Architecture/Microservices/♻️ 6. Шаблон сбора метрик приложения.md",
     "Architecture/Microservices/♻️ 9. Приложение двенадцати факторов.md",
-    "Help/Собеседование.md",
     "Data Base/Optional/Оптимистичная блокировка.md",
-    "Data Base/Optional/📘 HAVING в SQL.md",
-    "Data Base/Optional/📘 DISTINCT в SQL.md",
-    "Data Base/Optional/📘 Ссылочная целостность (Referential Integrity).md",
-    "Data Base/General/📘 12. Группы операторов SQL (DDL, DML, DQL, TCL, DCL).md",
-    "Data Base/General/📘 11. Предикаты сравнения истинности (truth value predicates).md",
-    "Data Base/General/📘 10. Тернарная логика в БД.md",
     "Problems",
     "assets/Microservices",
     "Architecture/Microservices",
-    "Git",
-    "assets"
+    "Git"
   ]
 }
