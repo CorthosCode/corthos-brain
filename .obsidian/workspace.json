@@ -11,14 +11,14 @@
             "id": "bc0cdadd01e4377f",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Kotlin/Объект-компаньон в Kotlin и отличие от static в Java.md",
-                "bFile": "Kotlin/Объект-компаньон в Kotlin и отличие от static в Java.md",
-                "aRef": ""
+                "file": "Kotlin/Объект-компаньон и реализация интерфейсов в Kotlin.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Объект-компаньон в Kotlin и отличие от static в Java  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Объект-компаньон и реализация интерфейсов в Kotlin"
             }
           }
         ]
@@ -195,8 +195,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38e354ce81d4a9c9",
+  "active": "bc0cdadd01e4377f",
   "lastOpenFiles": [
+    "Kotlin/Объект-компаньон и реализация интерфейсов в Kotlin.md",
     "Kotlin/Объект-компаньон в Kotlin и отличие от static в Java.md",
     "Java/Multithreading/☕ 3. Многопоточность (база).md",
     "Java/Multithreading/☕ 9. Сокращение конфликта блокировки.md",
@@ -238,7 +239,6 @@
     "Architecture/Microservices/♻️ 10.1. Модель зрелости Ричардсона.md",
     "Architecture/Microservices/♻️ 6. Шаблон сбора метрик приложения.md",
     "Architecture/Microservices/♻️ 9. Приложение двенадцати факторов.md",
-    "Data Base/Optional/Оптимистичная блокировка.md",
     "Problems",
     "assets/Microservices",
     "Architecture/Microservices",
